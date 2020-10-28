@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WikiDates</string>
+    <string name="channel_name">channel</string>
+    <string name="channel_description">channd</string>
+    <string name="title_activity_settings">titlesettings</string>
+    <string-array name="Languages">
+        <item>Русский</item>
+        <item>English</item>
+
+    </string-array>
+
+</resources>
+
